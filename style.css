@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@400;700&display=swap');
+
+div{
+    border: solid #D6001C;
+    border-radius: 10px;
+}
+
+.bakgrund{
+    display: flex;
+    flex-direction: column;
+    background-image: url(./img/snow_winter_trees.jpg);
+    padding-bottom: 20%;
+    margin-bottom: 2%;  
+}
+
+h1{
+    text-align: center;
+}
+
+.länkar{
+    display: flex;
+    margin-top: 1%;
+    margin-right: 1%;
+    margin-left: 1%;
+    padding: 3%;
+}
+
+.bilder{
+    border: solid black;
+    border-radius: 4px;
+    padding: 1%;
+    width: 20%;
+    height: 60%;
+}
+
